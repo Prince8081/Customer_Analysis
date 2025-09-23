@@ -9,7 +9,7 @@ I performed **data cleaning**, **SQL analysis**, and built an **interactive Powe
 
 ## 🛠 Tools & Technologies
 
-* **Python (Pandas, NumPy)** – Data cleaning, feature engineering
+* **Python (Pandas)** – Data cleaning, feature engineering
 * **SQL** – Querying customer segmentation, revenue trends, and top spenders
 * **Power BI** – Dashboard design, KPIs, and storytelling
 

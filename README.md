@@ -55,4 +55,4 @@ I performed **data cleaning**, **SQL analysis**, and built an **interactive Powe
 
 ## 📢 Connect with Me
 
-💼 **LinkedIn:** \[Your LinkedIn Profile Link]
+💼 **LinkedIn:** \[https://www.linkedin.com/posts/prince212108_customeranalysispdf-activity-7376148153697214464-g2AP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE44sIEBGH6xUxrSuZJLcVwcL0Bq8TCJi_I]
